@@ -51,9 +51,13 @@ This is a Engine who you need !
         
 The First line is this preSearch = [] , so is an Array and inside you got the result ok ?
 
-After you got user = this.userEnter.toUpperCase(); is just a input who user Enter search is want (toUpperCase is easy way to compare all in MAJ)
+After you got "user = this.userEnter.toUpperCase()" is just a input who user Enter search is want
 
-const arrayJeux = Object.values(this.jeux); You need to change that for me is a Object convert in array. You need arrayJeux = []
+(toUpperCase is easy way to compare all in MAJ)
+
+const arrayJeux = Object.values(this.jeux); You need to change that for me is a Object convert in array. 
+
+You need arrayJeux = An Array
 
 Now The html (vueJs)
 
